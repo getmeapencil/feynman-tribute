@@ -1,0 +1,58 @@
+body {
+  background-color: #77128B;
+}
+
+#main {
+  background-color: #000000;
+  color: #93EF81;
+  border-radius: 25px;
+  text-align: center;
+  padding: 0.75em;
+  font-family: 'Inconsolata', monospace;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  display: block;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 25px 25px 0 0;
+}
+
+#img-div {
+  border-radius: 25px;
+  background-color: #061703;
+  width: 25rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-caption {
+  padding: 0.75em;
+}
+
+#tribute-info {
+  max-width: 100%;
+  width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  text-align: left;
+  padding-bottom: 1em;
+  font-size: 1.2em;
+}
+blockquote, p {
+  font-size: 1.1em;
+}
+
+a {
+  color: #DD82EF;
+}
